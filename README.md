@@ -1,1 +1,1 @@
-This is restaurant Web app (menu) made with Django.
+This is a restaurant Web app (menu) made with Django.
